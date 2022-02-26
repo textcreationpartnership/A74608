@@ -1,0 +1,303 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>The divine dirge of a dying swan, or a priestly poem entitled by the author, De anima immortali carmen. / Written by Fr. Tucker, M.A. of St. Johns Colledge in Oxon.</title>
+            <author>Tucker, Francis.</author>
+         </titleStmt>
+         <editionStmt>
+            <edition>
+               <date>1661</date>
+            </edition>
+         </editionStmt>
+         <extent>Approx. 11 KB of XML-encoded text transcribed from 5 1-bit group-IV TIFF page images.</extent>
+         <publicationStmt>
+            <publisher>Text Creation Partnership,</publisher>
+            <pubPlace>Ann Arbor, MI ; Oxford (UK) :</pubPlace>
+            <date when="2012-10">2012-10 (EEBO-TCP Phase 2).</date>
+            <idno type="DLPS">A74608</idno>
+            <idno type="STC">Wing T3209</idno>
+            <idno type="STC">Thomason E1086_12</idno>
+            <idno type="STC">ESTC R208146</idno>
+            <idno type="EEBO-CITATION">99867130</idno>
+            <idno type="PROQUEST">99867130</idno>
+            <idno type="VID">119421</idno>
+            <availability>
+               <p>To the extent possible under law, the Text Creation Partnership has waived all copyright and related or neighboring rights to this keyboarded and encoded edition of the work described above, according to the terms of the CC0 1.0 Public Domain Dedication (http://creativecommons.org/publicdomain/zero/1.0/). This waiver does not extend to any page images or other supplementary files associated with this work, which may be protected by copyright or other license restrictions. Please go to https://www.textcreationpartnership.org/ for more information about the project.</p>
+            </availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title>Early English books online.</title>
+         </seriesStmt>
+         <notesStmt>
+            <note>(EEBO-TCP ; phase 2, no. A74608)</note>
+            <note>Transcribed from: (Early English Books Online ; image set 119421)</note>
+            <note>Images scanned from microfilm: (Thomason Tracts ; 161:E1086[12])</note>
+         </notesStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>The divine dirge of a dying swan, or a priestly poem entitled by the author, De anima immortali carmen. / Written by Fr. Tucker, M.A. of St. Johns Colledge in Oxon.</title>
+                  <author>Tucker, Francis.</author>
+               </titleStmt>
+               <extent>[4], 4 p.   </extent>
+               <publicationStmt>
+                  <publisher>Printed by Peter Lillierap,</publisher>
+                  <pubPlace>London :</pubPlace>
+                  <date>1661.</date>
+               </publicationStmt>
+               <notesStmt>
+                  <note>Annotation on Thomason copy: "Aprill 4".</note>
+                  <note>Reproduction of the original in the British Library.</note>
+               </notesStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created by converting TCP files to TEI P5 using tcp2tei.xsl,
+      TEI @ Oxford.
+      </p>
+         </projectDesc>
+         <editorialDecl>
+            <p>EEBO-TCP is a partnership between the Universities of Michigan and Oxford and the publisher ProQuest to create accurately transcribed and encoded texts based on the image sets published by ProQuest via their Early English Books Online (EEBO) database (http://eebo.chadwyck.com). The general aim of EEBO-TCP is to encode one copy (usually the first edition) of every monographic English-language title published between 1473 and 1700 available in EEBO.</p>
+            <p>EEBO-TCP aimed to produce large quantities of textual data within the usual project restraints of time and funding, and therefore chose to create diplomatic transcriptions (as opposed to critical editions) with light-touch, mainly structural encoding based on the Text Encoding Initiative (http://www.tei-c.org).</p>
+            <p>The EEBO-TCP project was divided into two phases. The 25,368 texts created during Phase 1 of the project (2000-2009), initially available only to institutions that contributed to their creation, were released into the public domain on 1 January 2015. The approximately 40,000 texts produced during Phase 2 (2009- ), of which 34,963 had been released as of 2020, originally similarly restricted, were similarly freed from all restrictions on 1 August 2020. As of that date anyone is free to take and use these texts for any purpose (modify them, annotate them, distribute them, etc.). But we do respectfully request that due credit and attribution be given to their original source.</p>
+            <p>Users should be aware of the process of creating the TCP texts, and therefore of any assumptions that can be made about the data.</p>
+            <p>Text selection was based on the New Cambridge Bibliography of English Literature (NCBEL). If an author (or for an anonymous work, the title) appears in NCBEL, then their works are eligible for inclusion. Selection was intended to range over a wide variety of subject areas, to reflect the true nature of the print record of the period. In general, first editions of a works in English were prioritized, although there are a number of works in other languages, notably Latin and Welsh, included and sometimes a second or later edition of a work was chosen if there was a compelling reason to do so.</p>
+            <p>Image sets were sent to external keying companies for transcription and basic encoding. Quality assurance was then carried out by editorial teams in Oxford and Michigan. 5% (or 5 pages, whichever is the greater) of each text was proofread for accuracy and those which did not meet QA standards were returned to the keyers to be redone. After proofreading, the encoding was enhanced and/or corrected and characters marked as illegible were corrected where possible up to a limit of 100 instances per text. Any remaining illegibles were encoded as &lt;gap&gt;s. Understanding these processes should make clear that, while the overall quality of TCP data is very good, some errors will remain and some readable characters will be marked as illegible. Users should bear in mind that in all likelihood such instances will never have been looked at by a TCP editor.</p>
+            <p>The texts were encoded and linked to page images in accordance with level 4 of the TEI in Libraries guidelines.</p>
+            <p>Copies of the texts have been issued variously as SGML (TCP schema; ASCII text with mnemonic sdata character entities); displayable XML (TCP schema; characters represented either as UTF-8 Unicode or text strings within braces); or lossless XML (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).</p>
+            <p>Keying and markup guidelines are available at the <ref target="http://www.textcreationpartnership.org/docs/.">Text Creation Partnership web site</ref>.</p>
+         </editorialDecl>
+         <listPrefixDef>
+            <prefixDef ident="tcp"
+                       matchPattern="([0-9\-]+):([0-9IVX]+)"
+                       replacementPattern="http://eebo.chadwyck.com/downloadtiff?vid=$1&amp;page=$2"/>
+            <prefixDef ident="char"
+                       matchPattern="(.+)"
+                       replacementPattern="https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1"/>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="eng">eng</language>
+         </langUsage>
+         <textClass>
+            <keywords scheme="http://authorities.loc.gov/">
+               <term>Soul --  Poetry --  Early works to 1800.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change>
+            <date>2011-11</date>
+            <label>TCP</label>Assigned for keying and markup</change>
+         <change>
+            <date>2011-11</date>
+            <label>Apex CoVantage</label>Keyed and coded from ProQuest page images</change>
+         <change>
+            <date>2012-01</date>
+            <label>Mona Logarbo</label>Sampled and proofread</change>
+         <change>
+            <date>2012-01</date>
+            <label>Mona Logarbo</label>Text and markup reviewed and edited</change>
+         <change>
+            <date>2012-05</date>
+            <label>pfs</label>Batch review (QC) and XML conversion</change>
+      </revisionDesc>
+   </teiHeader>
+   <text xml:lang="eng">
+      <front>
+         <div type="title_page">
+            <pb facs="tcp:119421:1" rendition="simple:additions"/>
+            <p>THE DIVINE DIRGE Of a dying SWAN, Or a Prieſtly POEM Entitled by the Author, <hi>De anima immortali carmen.</hi>
+            </p>
+            <p>Written by <hi>Fr. Tucker,</hi> M. A. of St. <hi>Johns</hi> Colledge <hi>in</hi> Oxon.</p>
+            <figure>
+               <figDesc>printer's or publisher's device</figDesc>
+            </figure>
+            <figure/>
+            <p>
+               <add>Aprill 4</add> 
+               <hi>London</hi> Printed by <hi>Peter Lillicrap.</hi> 1661.</p>
+         </div>
+         <div type="dedication">
+            <pb facs="tcp:119421:2"/>
+            <pb facs="tcp:119421:2"/>
+            <head>To the Right Honourable and moſt Reverend Fathers in God, <hi>William</hi> by Divine Providence, Lord Arch-Biſhop of <hi>Canterbury,</hi> His Grace, Accepted Lord Arch-Biſhop of <hi>York</hi> His Grace, Primates and Metropolitans of <hi>England,</hi> with all the reſt of the Reverend Biſhops, dignified Perſons and Prieſts in the Church of <hi>England.</hi>
+            </head>
+            <opener>
+               <salute>Moſt Reverend Father, and m<gap reason="illegible" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>ſt Honoured Lord,</salute>
+            </opener>
+            <p>I Am emboldned to addreſs this <hi>Divine Dirge of a dying Swan</hi> as his laſt breath, into your Graces hands; Nor indeed could I, as I humbly conceive more pro<g ref="char:EOLhyphen"/>perly recommend it to any perſon living, not onely be<g ref="char:EOLhyphen"/>cauſe your grace is Primate of the Church and ſo cheif of his Coat, but alſo becauſe under your graces moſt happy government he drew his firſt Univerſity breath and breding, being ſome time aſervant of that Colledge in <hi>Oxon</hi> where your Grace was the Honoured head: and ſo truly might be called a St. <hi>Iohns-man</hi> born, So I ſhall not need to inſiſt any further in any Character of his Piety and parts, having had ſo long a relation to your Grace and Government: In the next place I muſt be bold to preſent this ſmall peice to all you my Lords, the Biſhops, and others his Fathers, and Bretheren in the Church of <hi>England:</hi> Nor need I otherwiſe recommend his memmory to your Lord-ſhips than that he was one that had the honour to were your girdle and was not onely a beater down of Treaſon and Rebellion in his Pulpit, but in the field, where he durſt do, and did as much as any man of his coat. Nay he did not onely Preach but proclaim againſt the horid murther of his late Sacred Majeſty, before the very face of the Actors of the moſt
+<pb facs="tcp:119421:3"/> bloody Tragedy, and he forbore not to tell them of it, when it was done in open congregations, for which he together with his whole family were no little ſufferers: but now, O how he would have rejoyced to ſee this day!</p>
+            <p>In fine, my moſt Honoured Lords, I humbly beſeech you through the bowels of Jeſus Chriſt, that you will not onely meditate on the ſouls immortallity which I doubt not but my Huſband does happyly enjoye, and ſo will your Lord-ſhips after him but alſo an Immortality of our bodies, the poor widdowes and poor fatherleſs Children, now all ready to periſh if not releived by your Lord-ſhips moſt charitable goodneſs, and ſo as theſe ſhall be oblig'd to your Lord-ſhips for the<gap reason="illegible" extent="1 letter">
+                  <desc>•</desc>
+               </gap>r temporall life, they ſhall pray for all Temporall and e<gap reason="illegible" extent="1 letter">
+                  <desc>•</desc>
+               </gap>ernall good things to be beſtowed upon your Lord-ſhips. So your Lord-ſhips may be pleaſed to accept this as the widdows mite from,</p>
+            <closer>
+               <salute>My Lords,</salute> 
+               <signed>Your Lordſhips moſt devoted Beadswoman and humble ſervant <hi>Martha Tucker.</hi>
+               </signed>
+            </closer>
+         </div>
+      </front>
+      <body>
+         <div type="poem">
+            <pb n="1" facs="tcp:119421:3"/>
+            <head>De Anima immortali Carmen.</head>
+            <lg>
+               <l>BEfore the Birth of time or ere the Sun</l>
+               <l>In motion circular his courſe had run;</l>
+               <l>Befo<gap reason="illegible" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>e the Stars were taken from the wombe</l>
+               <l>Of night, confin'd to endleſs orbs, and bound:</l>
+               <l>To natural influence all was a Rude</l>
+               <l>And indigeſted Maſs, nothing indude,</l>
+               <l>With form or Soul, no organs then were tun'd</l>
+               <l>Unto the Spheres, for then no Spheres were found</l>
+               <l>Nor this dull earth, nor lighter heaven nor Sea</l>
+               <l>Had place conſervative, nought did obay:</l>
+               <l>Or Art's, or natur's Law, no <hi>Element</hi>
+               </l>
+               <l>Had it's eſſentiall form or Complement;</l>
+               <l>Untill the firſt and mighty movers Hand</l>
+               <l>Parted the jarring ſeedes, the Sea from Land</l>
+               <l>The purer fire from air and in a Robe</l>
+               <l>Of quantity and figure dreſs'd the Globe:</l>
+               <l>On which he plac't his vegetable Gueſts:</l>
+               <l>And Senſitives had here aſign'd their feaſts</l>
+               <l>To live and grow for him, who laſt of all</l>
+               <l>Enters the Scene at his Creators cal<gap reason="illegible" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>
+               </l>
+               <l>The mighty <hi>Elohim</hi> Conſulted than</l>
+               <l>To build a ſtately frame, and call'd that Man:</l>
+               <l>For which endear'd Creation and Reſpect</l>
+               <l>This Lovely Micro-coſme was made erect,</l>
+               <l>With upright Speculation, and a Soul</l>
+               <l>Was given him paſt Mortallities Controle</l>
+               <l>Whoſe holy flames and ſweet integrity</l>
+               <l>Did counterfit th' Allmighties Deity</l>
+               <l>Till his too forward will, too free to evil</l>
+               <l>Transform'd this Heaven born Child to th' Shape of Devill:</l>
+               <l>Whoſe eaſie, prompt poſteritie did track</l>
+               <l>His ſteps ſo faſt, that to eternall wrack:</l>
+               <pb n="2" facs="tcp:119421:4"/>
+               <l>Whole generall man had run, but that his Maker</l>
+               <l>Snatch't him from loſſe and was himſelf pertaker:</l>
+               <l>Of what himſelf had made, God aſſum'd man</l>
+               <l>And from th' imperiall Throne deſcending came,</l>
+               <l>Diſrob'd of Glory, and his tire of Light</l>
+               <l>To ſave his new loſt boy from the ſad night,</l>
+               <l>But by the ſhine he could diſcern and tell</l>
+               <l>There was an immortalitie in Hell:</l>
+               <l>Waiting the ſoul whom now privation</l>
+               <l>Of good had plung'd into dimnation.</l>
+               <l>Then 'twas; from <hi>Salem,</hi> the the Land of Peace,</l>
+               <l>Came bound for <hi>Jerico</hi> and Rob'd of Grace.</l>
+               <l>Was ſtruck to th' heart paſt reverend <hi>Aarons</hi> cure</l>
+               <l>The Sacrifice or the Levites power:</l>
+               <l>For, (the firſt covenant broak) dread <hi>Sina's</hi> Law</l>
+               <l>Bound her in thrall and barr'd up <hi>Sions</hi> way;</l>
+               <l>Till heaven to earth came down, till pitty gave</l>
+               <l>That Soveraign wine, and Sacred Oyle to ſave:</l>
+               <l>The wounded wreteh, who then again his head</l>
+               <l>Lifts up, and breathes to him from whom he fled:</l>
+               <l>Son of the morning Glorious Lucifer</l>
+               <l>When ſinn'd had fallen, the potent Thunderer</l>
+               <l>Hurl'd him from beauties Pallace, to th<gap reason="illegible" extent="1 letter">
+                     <desc>•</desc>
+                  </gap> Abyſſe</l>
+               <l>Of darkneſs never to regain that bliſſe:</l>
+               <l>He loſt, the Angels mis't that priviledge</l>
+               <l>Allow'd this mortall whoſe high Sacriledge:</l>
+               <l>So boldly acted againſt Infinitie</l>
+               <l>To heav'n on earth's paid by th' Deitie,</l>
+               <l>That God and man in one hypoſtaſie</l>
+               <l>Infinite finite that the etternall might</l>
+               <l>His at tributes of love and Iuſtice write?</l>
+               <l>Cleer to the now redeemed ſin I eye</l>
+               <l>Turning him to his beſt eternitie</l>
+               <l>Stupendious Miſtery I what cauſe could move</l>
+               <l>So great a Change; ah 'twas the God of love.</l>
+               <l>Pauſe here <hi>Oraculous</hi> Schole-man tell and write</l>
+               <l>What kinde of love is this great Stageritie</l>
+               <l>Go burn thy books, dam thy fond Heriſies,</l>
+               <pb n="3" facs="tcp:119421:4"/>
+               <l>And learn the God of natures Deity,</l>
+               <l>This ponderous pile, and all thoſe Clements turn</l>
+               <l>Man to a better Paradiſe than before</l>
+               <l>His ſin and folly loſt, whoſe ſoul ſhall ſoar</l>
+               <l>Above the Spangled Orbe embos'd with Store</l>
+               <l>Of curling ſtars and cut yon Chyriſtalin</l>
+               <l>Tranſparant heaven, Through which with wings divine</l>
+               <l>Bove <hi>Primum mobile</hi> it ſhall aſpire,</l>
+               <l>Till it aſcend and reach that Sacred Quir,</l>
+               <l>VVhere martyrs Crowned ſtand and Angels Sing</l>
+               <l>Anthems, and <hi>Halelujahs</hi> to their King.</l>
+               <l>This though the Sager <hi>Orpheus</hi> did not know</l>
+               <l>Nor <hi>Proclus,</hi> nor the ſharp <hi>Averroſs</hi> ſhew;</l>
+               <l>Shall riſe a truth, when Heav'n and earth ſhall fall</l>
+               <l>To diſſolution! th' grand Funerall.</l>
+               <l>This buſy ſoul by ſome was thought to paſs</l>
+               <l>By <hi>Metempſachoſis</hi> into ſome Aſſe</l>
+               <l>Or other body as if beaſts with men</l>
+               <l>Had equall ſhare in death and life agen:</l>
+               <l>Obſteperous Atheiſts ſo may write, and teach</l>
+               <l>Phanatique toyes, to their deſciples preach</l>
+               <l>The worlds Eternitie, mans nobler Spirit,</l>
+               <l>A breath let forth, and loſt, not to inherit?</l>
+               <l>Or future good, or bade, once paſt and gone</l>
+               <l>No more to finde a ſecond Station.</l>
+               <l>Prodigeous Blaſphemy! had they but known</l>
+               <l>From whence the Soul deſcended they had ſhown:</l>
+               <l>Whether it moves, and windes, and fain would riſe</l>
+               <l>To whence it came above the Arched Skies?</l>
+               <l>Leaſt violently it ſhould be hurled byneath</l>
+               <l>By th' weight of ſin, etternall though in death:</l>
+               <l>Mark how the flame of day doth trot, the Ring</l>
+               <l>Of aged time and in his progreſs bring:</l>
+               <l>His Chariot nearer Earth, as near his end</l>
+               <l>Declining ſtars do nod, planets deſcend</l>
+               <l>To chere the Crazie fainting centers heart</l>
+               <l>That Shook with Earth-quake agues in each part:</l>
+               <pb n="4" facs="tcp:119421:5"/>
+               <l>And droping into <hi>Chaos</hi> once again</l>
+               <l>Groans for a diſolution from its pain?</l>
+               <l>Yet when mans tottring body full of dayes,</l>
+               <l>Reclines his Snow-white head, and in a maze,</l>
+               <l>Pants with his ſtrugling throwes and groaning dies</l>
+               <l>The ſame again Numericall ſhall riſe;</l>
+               <l>To Claſpe the eternall Soul a Miſterie</l>
+               <l>Made only cleer unto Theologie:</l>
+               <l>Then fond Aſtronomer go bore the Stars</l>
+               <l>Ranſack the Zones, and tell to fools the jarrs</l>
+               <l>Betwixt the Planets, Search the brighteſt flames</l>
+               <l>Of all the conſtellations, and their names:</l>
+               <l>Set down, from fair <hi>Orion</hi> to the Bear?</l>
+               <l>From <hi>Caſſiopeia</hi> to Jov's Eagles ſo hear.</l>
+               <l>Erect a ſubtile figure, then propheſie</l>
+               <l>What fate attends thy ſelf, what <gap reason="illegible" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>iſerie</l>
+               <l>Thy Countrey; tell what famin, Rapes, what wars</l>
+               <l>Are hovering there, the wiſe man Rules the ſtars?</l>
+               <l>And thou maieſt break thy Epicyles for he</l>
+               <l>Laughes at thy Jacobs ſtaffe, thy Schemes and thee</l>
+               <l>His heaven in ſpired ſoul to heaven can go</l>
+               <l>Without thy Aſtrolobe, his faith can ſhow</l>
+               <l>The way and reach the end, heaven is his home,</l>
+               <l>Earth but his Inne, diſcharging that, hee's gone</l>
+            </lg>
+         </div>
+         <trailer>FINIS.</trailer>
+      </body>
+   </text>
+</TEI>
